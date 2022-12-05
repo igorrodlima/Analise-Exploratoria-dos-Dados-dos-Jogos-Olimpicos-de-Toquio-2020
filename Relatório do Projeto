@@ -1,0 +1,13 @@
+1. Objetivos do projeto:
+
+  A fim de analisar os dados obtidos nas Olimpíadas de Tóquio, o programa criado tem como objetivo analisar e observar o desempenho das equipes medalhistas (93 equipes).
+Uma vez que a colocação geral das equipes é definida por importância em ordem decrescente: quantidade de medalhas de ouro, quantidade de medalhas de prata e por fim, 
+quantidade de medalhas de bronze.
+
+2. Metodologia:
+	
+	Utilizando a linguagem C++, o programa desenvolvido conta com 2 vetores principais, sendo eles: O quadro geral de medalhas e o quadro de medalhas de ouro.
+Na qual analisando e observando estes vetores, o programa informará 12 opções de escolhas para o usuário optar, a partir dessas escolhas o programa devolverá ao usuário a informação escolhida.
+As 12 opções contidas no menu de escolhas são: determinar a quantidade de medalhas de cada equipe, determinar a média do quadro geral de medalhas e do quadro de medalhas de ouro, prata e bronze; determinar a mediana do quadro de medalhas geral e do quadro de medalhas de ouro, prata e bronze; a variância do quadro geral de medalhas e do quadro de medalhas de ouro, prata e bronze;  distribuição de frequência do quadro geral de medalhas e do quadro de medalhas de ouro, prata e bronze;  determinar o maior e menor valor do quadro geral de medalhas e do quadro de medalhas de ouro, prata e bronze; e por último, encerrar o programa.
+Após o usuário escolher uma das 12 opções, o programa lhe dará a resposta através de cálculos feitos pelo próprio programa. Em seguida, aguardará o usuário apertar qualquer tecla e retornará ao mesmo as 12 opções. 
+
